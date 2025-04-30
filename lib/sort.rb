@@ -1,3 +1,3 @@
-require_relative 'sort/bubble_sort'
-require_relative 'sort/bogo_sort'
-require_relative 'sort/merge_sort'
+require 'bubble_sort'
+require 'bogo_sort'
+require 'merge_sort'
